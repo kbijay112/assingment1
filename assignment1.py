@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-OPS445 Assignment 1 - Fall 2023
+OPS445 Assignment 1 - summer 2024
 Program: assignment1.py 
 The python code in this file is original work written by
 bijay khatiwada. No code in this file is copied from any other source
